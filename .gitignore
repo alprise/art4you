@@ -143,3 +143,5 @@ pip-log.txt
 *.mo
 #Mr Developer
 .mr.developer.cfg
+*.pdb
+Art/bin/Art.dll
