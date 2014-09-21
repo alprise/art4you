@@ -4934,10 +4934,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-
-  /*background-color: #eeeeee;*/
-  background-image:url("http://www.streetartutopia.com/wp-content/uploads/2012/09/Street-Art-by-Scampi-in-Wellington-New-Zealand.jpg");
-  background-position:top left;
+  background-color: #eeeeee;
 }
 
 .jumbotron h1 {
